@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.each-language-button {
+  margin: 10px;
+}
+.language-button {
+  background-color: transparent;
+  border-style: none;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 12px;
+  padding: 10px;
+}
+.active-btn {
+  border-style: solid;
+  border-color: #0284c7;
+  color: #0284c7;
+}
+.not-active {
+  border-style: none;
+  color: black;
+}

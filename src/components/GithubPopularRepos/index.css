@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.main-container {
+  height: 200vh;
+  width: 100vw;
+  background-color: white;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-family: Lobster;
+  text-align: center;
+  font-size: 42px;
+}
+.internal-container {
+  display: flex;
+  flex-direction: column;
+}
+.language-buttons-container {
+  display: flex;
+  flex-direction: row;
+}
+.language-ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.repository-ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

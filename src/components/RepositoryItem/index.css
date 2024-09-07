@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.each-card-item {
+  background-color: #f8f8ff;
+  height: 52vh;
+  width: 24vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.card-heading {
+  color: #e73959;
+}
+.logo-image {
+  height: 10vh;
+}
+.logos {
+  height: 32%;
+  margin-top:12px;
+  margin-right:4px;
+}
+.stars-container {
+  display: flex;
+  flex-direction: row;
+}
